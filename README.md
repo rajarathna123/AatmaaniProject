@@ -8,10 +8,3 @@
 ##### npm install --save nodemailer
 ##### npm start
 ##### http://localhost:3000/
-
-new line added
-
-again in master
-
-
-updated in master branch pushed to main branch

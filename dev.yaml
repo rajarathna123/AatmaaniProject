@@ -4,8 +4,8 @@
 
 replicaCount: 1
 
-image:
-  repository: 581962848636.dkr.ecr.us-east-2.amazonaws.com/sandeep-ecr-repository:latest
+image: 
+  repository:  581962848636.dkr.ecr.us-east-2.amazonaws.com/sandeep-ecr-repository
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1"

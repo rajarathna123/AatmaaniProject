@@ -16,10 +16,15 @@ On the other hand, often programs are simply thrown away and rewritten because t
 Tools Used:
 ---------
 1.GitHub:It is a place to store our peoject code and all other dependencies required for our project.
+
 2.Jenkins(CI&CD):It is a open-source ci/cd tool widely used to integrate with different tools.
+
 3.Docker:It is used to build docker images from our project code 
+
 4.Kubernetes(EKS):AWS provide EKS service to deploy our images      as pods
+
 5.Terraform:It is a infrastructure provisioning tool using terraform we can create our own custome resources in aws .
+
 6.Prometheus & Grafana:This are monotering tools used to monitor our deployed application for better understand to maintain quality product. 
 
 Cloud Provider and Services Used:

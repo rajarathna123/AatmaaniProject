@@ -27,7 +27,7 @@ On the other hand, often programs are simply thrown away and rewritten because t
 
 Tools Used:
 ---------
-1.GitHub:It is a place to store our peoject code and all other dependencies required for our project.
+1.GitHub:It is a place to store our source code and all other dependencies required for our project.
 
 2.Jenkins(CI&CD):It is a open-source ci/cd tool widely used to integrate with different tools.
 

@@ -30,9 +30,13 @@ Tools Used:
 Cloud Provider and Services Used:
 ------------------
 1.AWS cloud
+
 2.ECR
+
 3.EKS
+
 4.CLOUDFORMATION
+
 5.IAM & VPC
 
 Project Architecture:

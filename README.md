@@ -52,8 +52,10 @@ Project Architecture:
 
 Phase-1:
 -----
-Developer provided project code .
+* Developer provided project code .
+
 I have created a repository called Aatmaani-project in github .
+
 In that Aatmaani-project repository i have created 2 sub repos ,(1.devops,2.nodejs-project)
 Under devops repo,i included helm chart .
 Helm chart consists of 3 manifest files i.e 1. dev.yaml(1 pod) ,2.qa.yaml(1 pod), 3.prod.yaml(2 pods)

@@ -32,8 +32,7 @@ Cloud Provider and Services Used:
 
 Project Architecture:
 --------------
-
-![alt text for screen readers]https://github.com/rajarathna123/Devops-Repo/blob/main/Untitled Diagram.jpg
+![alt text for screen readers]https://raw.githubusercontent.com/rajarathna123/Devops-Repo/main/Untitled%20Diagram.jpg
 
 
 

@@ -16,13 +16,14 @@ Project Name:-Aatmaani-Project
 
 Abstract:
 ----------
-Documentation and information systems are needed in all phases of the development of a software product: from the user requirements phase, through design and implementation, until delivery and maintenance of the product. For this reason documentation should be designed, managed,produced, published and maintained.
+* Documentation and information systems are needed in all phases of the development of a software product: from the user requirements phase, through design and implementation, until delivery and maintenance of the product. For this reason documentation should be designed, managed,produced, published and maintained.
 
 Introduction: 
 ----------------
-During the development of a software project, documentation is undoubtedly the activity that we all like to do the least. 
+* During the development of a software project, documentation is undoubtedly the activity that we all like to do the least. 
 On the other hand, often programs are simply thrown away and rewritten because they are no longer under control and there is not enough information to understand them.
- This summary is an attempt to provide recipes that reduce the pain of producing that minimal amount of documentation that will help other people to work on the same project (internal documentation) and that will allow somebody outside the project to use the product (user documentation)
+ 
+* This summary is an attempt to provide recipes that reduce the pain of producing that minimal amount of documentation that will help other people to work on the same project (internal documentation) and that will allow somebody outside the project to use the product (user documentation)
 
 
 Tools Used:

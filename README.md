@@ -54,14 +54,19 @@ Phase-1:
 -----
 * Developer provided project code .
 
-I have created a repository called Aatmaani-project in github .
+* I have created a repository called Aatmaani-project in github .
 
-In that Aatmaani-project repository i have created 2 sub repos ,(1.devops,2.nodejs-project)
-Under devops repo,i included helm chart .
-Helm chart consists of 3 manifest files i.e 1. dev.yaml(1 pod) ,2.qa.yaml(1 pod), 3.prod.yaml(2 pods)
-If we want to access our application from outside cluster ,we need to change in every manifest file (dev.yaml,qa.yaml,prod.yaml) service to NodePort and mention Port 3000. 
-Helm chart also consists templates in that we have deployment.yaml in this deployment file ,we need to change containerport to 3000,because our project is running over 3000 port.
-I have wrote  a Dockerfile based on the project code and requirements.
+* In that Aatmaani-project repository i have created 2 sub repos ,(1.devops,2.nodejs-project)
+
+* Under devops repo,i included helm chart .
+
+* Helm chart consists of 3 manifest files i.e 1. dev.yaml(1 pod) ,2.qa.yaml(1 pod), 3.prod.yaml(2 pods)
+
+* If we want to access our application from outside cluster ,we need to change in every manifest file (dev.yaml,qa.yaml,prod.yaml) service to NodePort and mention Port 3000. 
+
+* Helm chart also consists templates in that we have deployment.yaml in this deployment file ,we need to change containerport to 3000,because our project is running over 3000 port.
+
+* I have wrote  a Dockerfile based on the project code and requirements.
 Nodejs-project repo consists of project code and Dockerfile to create docker image
 
 

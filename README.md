@@ -58,9 +58,12 @@ Nodejs-project repo consists of project code and Dockerfile to create docker ima
 Phase 2:
 ---------
 Using Terraform I Created a new vpc, subnets, Kubernetes cluster with one nodegroup with min 1 spot machine, max 5 in AWS Cloud
-I Created 3 different namespaces    
+I Created 3 different namespaces 
+
           1. dev    
+          
           2. qa
+          
           3.prod
 
 

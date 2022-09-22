@@ -107,7 +107,7 @@ Phase 3:
 
 * Using ansible i installed and configured Jenkins 
 * After installation i configured  jobs in jenkins using pipeline
-* In the pipeline i used declarative pipeline concept to automate my project process
+* In the pipeline i used declarative pipeline concept to automate my project process,
 Installed required plugins like(docker pipeline,kubernetes,slack notification plugins)
 
 Stage 1: 

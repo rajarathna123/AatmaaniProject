@@ -54,7 +54,7 @@ Cloud Provider and Services Used:
 
 Project Architecture:
 --------------
-![image](https://raw.githubusercontent.com/rajarathna123/Devops-Repo/main/Untitled%20Diagram.jpg)
+![image](https://raw.githubusercontent.com/rajarathna123/Devops-Repo/main/sandeep.jpg)
 
 
 

@@ -112,7 +112,7 @@ Installed required plugins like(docker pipeline,kubernetes,slack notification pl
 
 Stage 1: 
 ---------
-*In the pipeline i configured github project url and username with password so in stage 1 it will fetch the code from github.
+* In the pipeline i configured github project url and username with password so in stage 1 it will fetch the code from github.
 
 Stage 2:
 --------

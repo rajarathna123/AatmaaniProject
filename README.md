@@ -65,7 +65,7 @@ Project Architecture:
 
 Phase-1:
 -----
-* Developer provided project code .
+* Developer will commit code to github.
 
 * I have created a repository called Aatmaani-project in github .
 

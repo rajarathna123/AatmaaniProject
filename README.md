@@ -159,7 +159,7 @@ Phase 6:
 ---------
 * In kubernetes cluster ,i have installed prometheus and grafana for cluster monitoring(pods,cpu utilization,Ram,memory)
 
-* Nodeport will collect all matrices from kubernetes cluster it will given to prometheus ,prometheus will display all target port matrices.
+* Nodeexpoter will collect all matrices from kubernetes cluster it will given to prometheus ,prometheus will display all target port matrices.
 
 * Prometheus will display all the target port matrices(default port:9090)
 
